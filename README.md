@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JS, Bootstrap**
 
-- 👯 I’m looking to collaborate on **New Projects**
+- 👯 I’m looking forward to collaborate on **New Projects**
 
 - 📫 How to reach me **adya.monsoon@gmail.com**
 
