@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adyasha Monsoon</h1>
-<h3 align="center">A passionate frontend developer, Designer from India, A Female Coder #SheCodes, ITER'25, Viral Fission Youth Ambassador</h3>
+<h3 align="center">A passionate frontend developer & designer from India, A Female Coder #SheCodes, A budding engineering from ITER SOA'25 & Viral Fission Youth Ambassador</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsoon07&label=Profile%20views&color=0e75b6&style=flat" alt="monsoon07" /> </p>
 
